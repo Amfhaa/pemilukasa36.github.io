@@ -1,7 +1,10 @@
 # Website Pencoblosan Pemilukasa 
 web pencoblosan kandidat ketua ispah angkatan 36 peismataris never die!!!
 
-## link websitenya guys => https://amfhaa.github.io/pemilukasa36.github.io/
+## link websitenya guys
+
+https://amfhaa.github.io/pemilukasa36.github.io/
+
 ## beberapa tombol penting appnya:
 - spasi + z : menampilkan hitungan
 - spasi + x : menyembunyikan hitungan
@@ -15,4 +18,5 @@ web pencoblosan kandidat ketua ispah angkatan 36 peismataris never die!!!
 
 ## akhirul kalam
 kalo ada bug bug dikit yaudah maapin ges programmernya juga manusia bukan nabi boyy. 
+
 makanya makenya jangan kaya orang kesetanan, tunggu animasinya kelar dulu baru ngeklik biar ga ngebug.
