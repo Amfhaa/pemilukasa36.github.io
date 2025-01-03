@@ -1,7 +1,7 @@
 # Website Pencoblosan Pemilukasa 
 web pencoblosan kandidat ketua ispah angkatan 36 peismataris never die!!!
 
-## link websitenya guys
+## link app pencoblosannya guys
 
 https://amfhaa.github.io/pemilukasa36.github.io/
 
